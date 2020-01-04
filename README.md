@@ -12,4 +12,4 @@ Prerequisites:
   
 Clone or download repository and run the main.py file in console using: `python main.py`
 
-Pufy documentation: [Pufy Documentation](https://pythonhosted.org/Pafy/?source=post_page-----cd4574354d8e----------------------)
+Pafy documentation: [Pufy Documentation](https://pythonhosted.org/Pafy/?source=post_page-----cd4574354d8e----------------------)
